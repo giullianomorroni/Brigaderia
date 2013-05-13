@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Casa dos Brigadeiros \u0026 Cia</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+	<string name="imagem_llustrativa">Imagem Ilustrativa</string>
+	<string name="contato">Contato</string>
+	<string name="novidades">Novidades</string>
+	<string name="oferta">Ofertas</string>
+	<string name="lojas">Nossas lojas</string>
+	<string name="sair">Fechar</string>
+	<string name="opcoes">opções</string>
+	<string name="nome_empresa">Seja Bem Vindo !!!</string>
+	<string name="introducao">A Casa do Brigadeiro \u0026 Cia tem como objetivo proporcionar uma experiência agradável e única ao paladar de seus consumidores ao degustarem algo que até então era visto como simples e tradicional, porém agora passa a ser um doce diferenciado e versátil, com características tipicamente brasileiras.</string>
+	<string name="nossos_sabores">conheça nossos sabores...</string>
+</resources>

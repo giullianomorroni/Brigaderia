@@ -1,0 +1,31 @@
+titulo_0=Brigadeiro de Banana
+descricao_0=Massa de brigadeiro branca com pedaços de banana envolvida com açúcar cristal
+valor_0=R$4,00
+
+titulo_1=Brigadeiro de Licor de Café
+descricao_1=Massa de brigadeiro com leve aroma de licor de café envolvida no chocolate granulado.
+valor_1=R$4,00
+
+titulo_2=Brigadeiro de Coco
+descricao_2=Massa de coco envolvida em flocos de coco.
+valor_2=R$4,00
+
+titulo_3=Brigadeiro de Limão
+descricao_3=Massa branca com sabor limão envolvida em açúcar com raspa de limão.
+valor_3=R$4,00
+
+titulo_4=Brigadeiro de Morango
+descricao_4=Massa de brigadeiro envolvida no chocolate granulado, recheada com morango.
+valor_4=R$4,50
+
+titulo_5=Brigadeiro de Paçoca
+descricao_5=Massa de brigadeiro branca com pedaços de paçoca envolvida com amendoim triturado
+valor_5=R$4,00
+
+titulo_6=Brigadeiro Tradicional
+descricao_6=Massa de brigadeiro envolvida no chocolate granulado
+valor_6=R$2,50
+
+titulo_7=Brigadeiro Tradicional Crispy
+descricao_7=Massa de brigadeiro envolvida no chocolate granulado especial com crispy  
+valor_7=R$4,00
